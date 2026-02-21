@@ -27,7 +27,7 @@ git config --global user.name <usuario>
 
 #### Configura el email
 ```
-git config --global user.email <correo>
+git config --global user.email felipe.saezm@hotmail.com
 ```
 
 #### Lista la configuración de git
